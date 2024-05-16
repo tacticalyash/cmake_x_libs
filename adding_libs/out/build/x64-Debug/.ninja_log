@@ -1,0 +1,8 @@
+# ninja log v5
+942	1163	7375608694819891	subbinary/subbinary.exe	8aac574cea6f9cca
+16	895	7375608692601266	subbinary/CMakeFiles/subbinary.dir/main.cpp.obj	fd2e287eddf7d810
+3	849	7375608692128800	sublibrary1/CMakeFiles/sublibrary1.dir/src/sublib1.cpp.obj	51e218b7bb94b255
+849	942	7375608693074931	sublibrary1/sublibrary1.lib	9aac2df196dd1f22
+2	202	7375610346109822	build.ninja	96a62d1bc49f2b6e
+3	549	7375610350390779	subbinary/CMakeFiles/subbinary.dir/main.cpp.obj	fd2e287eddf7d810
+550	823	7375610352697733	subbinary/subbinary.exe	8aac574cea6f9cca

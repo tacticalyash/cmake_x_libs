@@ -1,0 +1,10 @@
+C:/Users/yashs/Documents/02-sub-projects/A-basic/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/yashs/Documents/02-sub-projects/A-basic/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/yashs/Documents/02-sub-projects/A-basic/out/build/x64-Debug/sublibrary1/CMakeFiles/sublibrary1.dir
+C:/Users/yashs/Documents/02-sub-projects/A-basic/out/build/x64-Debug/sublibrary1/CMakeFiles/edit_cache.dir
+C:/Users/yashs/Documents/02-sub-projects/A-basic/out/build/x64-Debug/sublibrary1/CMakeFiles/rebuild_cache.dir
+C:/Users/yashs/Documents/02-sub-projects/A-basic/out/build/x64-Debug/sublibrary2/CMakeFiles/edit_cache.dir
+C:/Users/yashs/Documents/02-sub-projects/A-basic/out/build/x64-Debug/sublibrary2/CMakeFiles/rebuild_cache.dir
+C:/Users/yashs/Documents/02-sub-projects/A-basic/out/build/x64-Debug/subbinary/CMakeFiles/subbinary.dir
+C:/Users/yashs/Documents/02-sub-projects/A-basic/out/build/x64-Debug/subbinary/CMakeFiles/edit_cache.dir
+C:/Users/yashs/Documents/02-sub-projects/A-basic/out/build/x64-Debug/subbinary/CMakeFiles/rebuild_cache.dir
